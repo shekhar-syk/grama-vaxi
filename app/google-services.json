@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1073932113490",
+    "project_id": "gram-vaxi-main",
+    "storage_bucket": "gram-vaxi-main.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073932113490:android:54948022786856f367b18b",
+        "android_client_info": {
+          "package_name": "com.example.grama_vaxi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAXRd6OlfyN9Bb7xIHQ-ojo5klSlxtEkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

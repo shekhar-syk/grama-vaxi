@@ -1,0 +1,176 @@
+<resources>
+    <string name="app_name">Grama-Vaxi</string>
+    <!-- Dashboard -->
+    <string name="namaskara">Namaskara</string>
+    <string name="dashboard_subtitle">Here is your farm\'s overview today.</string>
+    <string name="total_animals_registered">Total Animals Registered</string>
+    <string name="animals">animals</string>
+    <string name="upcoming_vaccinations">Upcoming Vaccinations</string>
+    <string name="scheduled">scheduled</string>
+    <string name="alerts">Alerts</string>
+    <string name="require_attention">require attention</string>
+    <string name="quick_actions">Quick Actions</string>
+    <string name="register_animal">Register Animal</string>
+    <string name="view_calendar">View Calendar</string>
+    <string name="report_disease">Report Disease</string>
+    <string name="active_alerts">Active Alerts</string>
+
+    <!-- Calendar -->
+    <string name="vaccination_calendar">Vaccination Calendar</string>
+    <string name="current_month">Current month</string>
+    <string name="previous_month">Previous month</string>
+    <string name="next_month">Next month</string>
+
+    <!-- Ledger -->
+    <string name="registered_animals">Registered Animals</string>
+    <string name="add_animal">Add Animal</string>
+    <string name="years">years</string>
+
+    <!-- Terms -->
+    <string name="terms_and_conditions">Terms &amp; Conditions</string>
+    <string name="effective_date">Effective date: May 2, 2026</string>
+    <string name="terms_agreement">By using Grama-Vaxi you agree to the terms below.</string>
+    <string name="terms_list">1. Use responsibly: Use the app to record and monitor livestock health data accurately.\n2. Data ownership: You own the data you submit. We use it to provide services and alerts.\n3. Notifications: Alerts are informational and do not replace professional veterinary advice.\n4. Account security: Keep your device and login details secure.\n5. Account deletion: When you request deletion, your login credentials and app access are removed immediately. Your farm records will be permanently deleted after a 15-day grace period.\n6. Service changes: Features may change to improve reliability and performance.</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="delete_account_desc">Requesting account deletion will remove your login credentials immediately. Your data will be purged after 15 days.</string>
+    <string name="delete_my_account">Delete my account</string>
+    <string name="deleting_account">Deleting account…</string>
+    <string name="failed_delete">Failed to delete account</string>
+    <string name="delete_account_q">Delete account?</string>
+    <string name="delete_account_dialog_desc">Your login credentials and app access will be removed immediately. You will be signed out. Your data will be held for 15 days before final deletion.</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="back">Back</string>
+
+    <!-- Camp Alert -->
+    <string name="health_camp_tomorrow">Health Camp Tomorrow</string>
+    <string name="health_camp_desc">A veterinary doctor is arriving to administer vaccines and checkups.</string>
+    <string name="palhalli_village">Palhalli Village</string>
+    <string name="temple_square">Temple Square</string>
+    <string name="camp_time_sample">08:00 AM - 02:00 PM</string>
+    <string name="location">Location</string>
+    <string name="time">Time</string>
+    <string name="services">Services</string>
+    <string name="fmd_boosters">FMD Boosters, Checkups, Tagging</string>
+    <string name="mark_as_seen">Mark as Seen</string>
+    <string name="view_directions">View Directions</string>
+
+    <!-- Notifications -->
+    <string name="critical_updates">Critical updates for your livestock.</string>
+    <string name="scheduled_vaccinations">Scheduled Vaccinations</string>
+    <string name="notifications">Notifications</string>
+    <string name="mark_read">Mark Read</string>
+    <string name="scan_camp_qr">Scan Camp QR</string>
+    <string name="scan_camp_qr_hint">Use the camera scanner to open a camp schedule generated in the admin dashboard.</string>
+    <string name="camp_qr_result">Camp QR Result</string>
+    <string name="camp_qr_payload_unknown">The QR code could not be decoded into a camp schedule.</string>
+    <string name="camp_qr_open_calendar">Open calendar</string>
+    <string name="camp_qr_open_alerts">Open alerts</string>
+    <string name="camp_qr_schedule">Camp schedule</string>
+    <string name="date">Date</string>
+    <string name="align_qr_hint">Align QR code to fill inside the frame</string>
+    <string name="choose_image">Choose image</string>
+    <string name="camera_permission_denied">Camera permission is required to scan QR codes</string>
+    <string name="no_qr_found">No QR code found in the selected image</string>
+
+    <!-- Profile -->
+    <string name="add_contact_information">Add contact information</string>
+    <string name="profile">Profile</string>
+    <string name="your_profile">Your profile</string>
+    <string name="edit_profile">Edit profile</string>
+    <string name="update_name_phone_location">Update name, phone, and location</string>
+    <string name="alerts_and_reminders">Alerts &amp; reminders</string>
+    <string name="open_in_app_notifications">Open your in-app notifications</string>
+    <string name="notification_settings">Notification settings</string>
+    <string name="manage_system_permissions">Manage system notification permissions</string>
+    <string name="app_permissions">App permissions</string>
+    <string name="open_app_permissions">Open app permissions and privacy controls</string>
+    <string name="preferences">Preferences</string>
+    <string name="language">Language</string>
+    <string name="change_app_language">Change app language</string>
+    <string name="dark_mode">Dark mode</string>
+    <string name="choose_light_dark_system">Choose light, dark, or system</string>
+    <string name="legal">Legal</string>
+    <string name="read_terms">Read terms and delete account</string>
+    <string name="logout">Logout</string>
+
+    <!-- Edit Profile -->
+    <string name="edit_profile_title">Edit Profile</string>
+    <string name="save">Save</string>
+    <string name="account_details">Account Details</string>
+    <string name="user_name">User Name</string>
+    <string name="email_label">Email (used for login)</string>
+    <string name="phone">Phone</string>
+    <string name="age">Age</string>
+    <string name="role_optional">Role (optional)</string>
+
+    <!-- Auth Screens -->
+    <string name="app_name_en">Grama-Vaxi</string>
+    <string name="app_name_kn">ಗ್ರಾಮ ವ್ಯಾಕ್ಸಿ</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="or_use_phone">  or use phone  </string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="ten_digit_number">10-digit number</string>
+    <string name="resend_in_s">Resend in %1$ds</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="otp_sent_to">OTP sent to +91 %1$s</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="login_btn">Login / ಲಾಗಿನ್</string>
+    
+    <string name="complete_profile">Complete Profile</string>
+    <string name="welcome_provide_details">Welcome! Please provide some basic details.</string>
+    <string name="full_name">Full Name</string>
+    <string name="village_location">Village / Location</string>
+    <string name="phone_number">Number</string>
+    <string name="verify_phone_later">You can verify the number later</string>
+    <string name="complete_registration">Complete Registration</string>
+    
+    <string name="verification">Verification</string>
+    <string name="enter_otp_sent_to">Enter OTP sent to %1$s</string>
+    <string name="otp">OTP</string>
+    <string name="otp_placeholder">0000</string>
+    <string name="resend_otp_in_sec">Resend OTP in %1$d sec</string>
+    <string name="request_new_otp">You can request a new OTP</string>
+    <string name="verify_btn">Verify / ಪರಿಶೀಲಿಸಿ</string>
+
+    <!-- Language / Theme / Permission Settings -->
+    <string name="choose_language">Choose the language you prefer.</string>
+    <string name="english">English</string>
+    <string name="kannada">Kannada</string>
+    <string name="notification_settings_title">Notification Settings</string>
+    <string name="manage_notification_permissions">Manage your system notification permissions for alerts and reminders.</string>
+    <string name="open_notification_settings">Open notification settings</string>
+    <string name="dark_mode_title">Dark Mode</string>
+    <string name="choose_app_appearance">Choose how Grama-Vaxi looks on your phone.</string>
+    <string name="system_default">System Default</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="app_permissions_title">App Permissions</string>
+    <string name="control_access">Control access to storage, location, and notifications from system settings.</string>
+    <string name="open_app_permissions_btn">Open app permissions</string>
+
+    <string name="animal_photo">Animal Photo</string>
+    <string name="tap_to_take_photo">Tap to Take Photo</string>
+    <string name="or_select_from_gallery">or select from gallery</string>
+    <string name="animal_name">Animal Name</string>
+    <string name="animal_name_hint">e.g., Gauri</string>
+    <string name="breed">Breed</string>
+    <string name="breed_hint">e.g., Holstein</string>
+    <string name="village">Village</string>
+    <string name="village_hint">e.g., Palhalli</string>
+    <string name="age_months">Age (Months)</string>
+
+    <!-- Disease Report -->
+    <string name="alert_vet_services">Alert local veterinary services immediately.</string>
+    <string name="select_affected_animals">Select Affected Animal(s)</string>
+    <string name="number_affected_animals">Number of Affected Animals</string>
+    <string name="symptoms_observed">Symptoms Observed</string>
+    <string name="describe_symptoms">Describe symptoms clearly…</string>
+    <string name="additional_notes">Additional Notes</string>
+    <string name="notes_placeholder">Village, behavior changes, urgency</string>
+    <string name="classify_symptoms">Classify Symptoms</string>
+    <string name="submit_report">Submit Report</string>
+
+    <string name="not_scheduled">Not scheduled</string>
+    <string name="default_web_client_id">902931902318-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.apps.googleusercontent.com</string>
+</resources>

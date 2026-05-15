@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಗ್ರಾಮ-ವಾಕ್ಸಿ</string>
+    <!-- Dashboard -->
+    <string name="namaskara">ನಮಸ್ಕಾರ</string>
+    <string name="dashboard_subtitle">ಇಂದು ನಿಮ್ಮ ಜಮೀನಿನ ಅವಲೋಕನ ಇಲ್ಲಿದೆ.</string>
+    <string name="total_animals_registered">ಒಟ್ಟು ನೋಂದಾಯಿತ ಪ್ರಾಣಿಗಳು</string>
+    <string name="animals">ಪ್ರಾಣಿಗಳು</string>
+    <string name="upcoming_vaccinations">ಮುಂಬರುವ ಲಸಿಕೆಗಳು</string>
+    <string name="scheduled">ನಿಗದಿಯಾಗಿದೆ</string>
+    <string name="alerts">ಎಚ್ಚರಿಕೆಗಳು</string>
+    <string name="require_attention">ಗಮನ ಅಗತ್ಯವಿದೆ</string>
+    <string name="quick_actions">ತ್ವರಿತ ಕ್ರಿಯೆಗಳು</string>
+    <string name="register_animal">ಪ್ರಾಣಿಯನ್ನು ನೋಂದಾಯಿಸಿ</string>
+    <string name="view_calendar">ಕ್ಯಾಲೆಂಡರ್ ವೀಕ್ಷಿಸಿ</string>
+    <string name="report_disease">ರೋಗವನ್ನು ವರದಿ ಮಾಡಿ</string>
+    <string name="active_alerts">ಸಕ್ರಿಯ ಎಚ್ಚರಿಕೆಗಳು</string>
+
+    <!-- Calendar -->
+    <string name="vaccination_calendar">ಲಸಿಕೆ ಕ್ಯಾಲೆಂಡರ್</string>
+    <string name="current_month">ಪ್ರಸ್ತುತ ತಿಂಗಳು</string>
+    <string name="previous_month">ಹಿಂದಿನ ತಿಂಗಳು</string>
+    <string name="next_month">ಮುಂದಿನ ತಿಂಗಳು</string>
+
+    <!-- Ledger -->
+    <string name="registered_animals">ನೋಂದಾಯಿತ ಪ್ರಾಣಿಗಳು</string>
+    <string name="add_animal">ಪ್ರಾಣಿ ಸೇರಿಸಿ</string>
+    <string name="years">ವರ್ಷಗಳು</string>
+
+    <!-- Terms -->
+    <string name="terms_and_conditions">ನಿಯಮಗಳು ಮತ್ತು ನಿಬಂಧನೆಗಳು</string>
+    <string name="effective_date">ಪರಿಣಾಮಕಾರಿ ದಿನಾಂಕ: ಮೇ 2, 2026</string>
+    <string name="terms_agreement">ಗ್ರಾಮ-ವಾಕ್ಸಿಯನ್ನು ಬಳಸುವ ಮೂಲಕ ನೀವು ಕೆಳಗಿನ ನಿಯಮಗಳನ್ನು ಒಪ್ಪುತ್ತೀರಿ.</string>
+    <string name="terms_list">1. ಜವಾಬ್ದಾರಿಯುತವಾಗಿ ಬಳಸಿ: ಜಾನುವಾರುಗಳ ಆರೋಗ್ಯ ಡೇಟಾವನ್ನು ನಿಖರವಾಗಿ ದಾಖಲಿಸಲು ಮತ್ತು ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡಲು ಅಪ್ಲಿಕೇಶನ್ ಬಳಸಿ.\n2. ಡೇಟಾ ಮಾಲೀಕತ್ವ: ನೀವು ಸಲ್ಲಿಸುವ ಡೇಟಾವನ್ನು ನೀವು ಹೊಂದಿದ್ದೀರಿ. ಸೇವೆಗಳು ಮತ್ತು ಎಚ್ಚರಿಕೆಗಳನ್ನು ಒದಗಿಸಲು ನಾವು ಅದನ್ನು ಬಳಸುತ್ತೇವೆ.\n3. ಅಧಿಸೂಚನೆಗಳು: ಎಚ್ಚರಿಕೆಗಳು ಮಾಹಿತಿಯುಕ್ತವಾಗಿವೆ ಮತ್ತು ವೃತ್ತಿಪರ ಪಶುವೈದ್ಯಕೀಯ ಸಲಹೆಯನ್ನು ಬದಲಿಸುವುದಿಲ್ಲ.\n4. ಖಾತೆ ಭದ್ರತೆ: ನಿಮ್ಮ ಸಾಧನ ಮತ್ತು ಲಾಗಿನ್ ವಿವರಗಳನ್ನು ಸುರಕ್ಷಿತವಾಗಿರಿಸಿ.\n5. ಖಾತೆ ಅಳಿಸುವಿಕೆ: ನೀವು ಅಳಿಸಲು ವಿನಂತಿಸಿದಾಗ, ನಿಮ್ಮ ಲಾಗಿನ್ ರುಜುವಾತುಗಳು ಮತ್ತು ಅಪ್ಲಿಕೇಶನ್ ಪ್ರವೇಶವನ್ನು ತಕ್ಷಣ ತೆಗೆದುಹಾಕಲಾಗುತ್ತದೆ. ನಿಮ್ಮ ಫಾರ್ಮ್ ದಾಖಲೆಗಳನ್ನು 15 ದಿನಗಳ ನಂತರ ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಲಾಗುತ್ತದೆ.\n6. ಸೇವಾ ಬದಲಾವಣೆಗಳು: ವಿಶ್ವಾಸಾರ್ಹತೆ ಮತ್ತು ಕಾರ್ಯಕ್ಷಮತೆಯನ್ನು ಸುಧಾರಿಸಲು ವೈಶಿಷ್ಟ್ಯಗಳು ಬದಲಾಗಬಹುದು.</string>
+    <string name="delete_account">ಖಾತೆ ಅಳಿಸಿ</string>
+    <string name="delete_account_desc">ಖಾತೆ ಅಳಿಸುವಿಕೆಯನ್ನು ವಿನಂತಿಸುವುದರಿಂದ ನಿಮ್ಮ ಲಾಗಿನ್ ರುಜುವಾತುಗಳನ್ನು ತಕ್ಷಣ ತೆಗೆದುಹಾಕಲಾಗುತ್ತದೆ. ನಿಮ್ಮ ಡೇಟಾವನ್ನು 15 ದಿನಗಳ ನಂತರ ಅಳಿಸಲಾಗುತ್ತದೆ.</string>
+    <string name="delete_my_account">ನನ್ನ ಖಾತೆಯನ್ನು ಅಳಿಸಿ</string>
+    <string name="deleting_account">ಖಾತೆ ಅಳಿಸಲಾಗುತ್ತಿದೆ…</string>
+    <string name="failed_delete">ಖಾತೆಯನ್ನು ಅಳಿಸಲು ವಿಫಲವಾಗಿದೆ</string>
+    <string name="delete_account_q">ಖಾತೆಯನ್ನು ಅಳಿಸಬೇಕೆ?</string>
+    <string name="delete_account_dialog_desc">ನಿಮ್ಮ ಲಾಗಿನ್ ರುಜುವಾತುಗಳು ಮತ್ತು ಅಪ್ಲಿಕೇಶನ್ ಪ್ರವೇಶವನ್ನು ತಕ್ಷಣ ತೆಗೆದುಹಾಕಲಾಗುತ್ತದೆ. ನೀವು ಸೈನ್ ಔಟ್ ಆಗುತ್ತೀರಿ. ಅಂತಿಮ ಅಳಿಸುವಿಕೆಗೆ ಮೊದಲು ನಿಮ್ಮ ಡೇಟಾವನ್ನು 15 ದಿನಗಳವರೆಗೆ ಇರಿಸಲಾಗುತ್ತದೆ.</string>
+    <string name="delete">ಅಳಿಸಿ</string>
+    <string name="cancel">ರದ್ದುಗೊಳಿಸಿ</string>
+    <string name="back">ಹಿಂದೆ</string>
+
+    <!-- Camp Alert -->
+    <string name="health_camp_tomorrow">ನಾಳೆ ಆರೋಗ್ಯ ಶಿಬಿರ</string>
+    <string name="health_camp_desc">ಪಶುವೈದ್ಯರು ಲಸಿಕೆ ಮತ್ತು ತಪಾಸಣೆ ನೀಡಲು ಆಗಮಿಸುತ್ತಿದ್ದಾರೆ.</string>
+    <string name="palhalli_village">ಪಾಲಹಳ್ಳಿ ಗ್ರಾಮ</string>
+    <string name="temple_square">ದೇವಸ್ಥಾನದ ಚೌಕ</string>
+    <string name="camp_time_sample">ಬೆಳಿಗ್ಗೆ 08:00 - ಮಧ್ಯಾಹ್ನ 02:00</string>
+    <string name="location">ಸ್ಥಳ</string>
+    <string name="time">ಸಮಯ</string>
+    <string name="services">ಸೇವೆಗಳು</string>
+    <string name="fmd_boosters">FMD ಬೂಸ್ಟರ್‌ಗಳು, ತಪಾಸಣೆಗಳು, ಟ್ಯಾಗಿಂಗ್</string>
+    <string name="mark_as_seen">ನೋಡಲಾಗಿದೆ ಎಂದು ಗುರುತಿಸಿ</string>
+    <string name="view_directions">ನಿರ್ದೇಶನಗಳನ್ನು ವೀಕ್ಷಿಸಿ</string>
+
+    <!-- Notifications -->
+    <string name="critical_updates">ನಿಮ್ಮ ಜಾನುವಾರುಗಳಿಗೆ ನಿರ್ಣಾಯಕ ನವೀಕರಣಗಳು.</string>
+    <string name="scheduled_vaccinations">ನಿಗದಿತ ಲಸಿಕೆಗಳು</string>
+    <string name="notifications">ಅಧಿಸೂಚನೆಗಳು</string>
+    <string name="mark_read">ಓದಲಾಗಿದೆ ಎಂದು ಗುರುತಿಸಿ</string>
+
+    <!-- Profile -->
+    <string name="add_contact_information">ಸಂಪರ್ಕ ಮಾಹಿತಿಯನ್ನು ಸೇರಿಸಿ</string>
+    <string name="profile">ಪ್ರೊಫೈಲ್</string>
+    <string name="your_profile">ನಿಮ್ಮ ಪ್ರೊಫೈಲ್</string>
+    <string name="edit_profile">ಪ್ರೊಫೈಲ್ ಸಂಪಾದಿಸಿ</string>
+    <string name="update_name_phone_location">ಹೆಸರು, ಫೋನ್ ಮತ್ತು ಸ್ಥಳವನ್ನು ನವೀಕರಿಸಿ</string>
+    <string name="alerts_and_reminders">ಎಚ್ಚರಿಕೆಗಳು ಮತ್ತು ಜ್ಞಾಪನೆಗಳು</string>
+    <string name="open_in_app_notifications">ನಿಮ್ಮ ಅಪ್ಲಿಕೇಶನ್‌ನಲ್ಲಿನ ಅಧಿಸೂಚನೆಗಳನ್ನು ತೆರೆಯಿರಿ</string>
+    <string name="notification_settings">ಅಧಿಸೂಚನೆ ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="manage_system_permissions">ಸಿಸ್ಟಮ್ ಅಧಿಸೂಚನೆ ಅನುಮತಿಗಳನ್ನು ನಿರ್ವಹಿಸಿ</string>
+    <string name="app_permissions">ಅಪ್ಲಿಕೇಶನ್ ಅನುಮತಿಗಳು</string>
+    <string name="open_app_permissions">ಅಪ್ಲಿಕೇಶನ್ ಅನುಮತಿಗಳು ಮತ್ತು ಗೌಪ್ಯತೆ ನಿಯಂತ್ರಣಗಳನ್ನು ತೆರೆಯಿರಿ</string>
+    <string name="preferences">ಆದ್ಯತೆಗಳು</string>
+    <string name="language">ಭಾಷೆ</string>
+    <string name="change_app_language">ಅಪ್ಲಿಕೇಶನ್ ಭಾಷೆಯನ್ನು ಬದಲಾಯಿಸಿ</string>
+    <string name="dark_mode">ಡಾರ್ಕ್ ಮೋಡ್</string>
+    <string name="choose_light_dark_system">ಬೆಳಕು, ಗಾಢ ಅಥವಾ ಸಿಸ್ಟಮ್ ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="legal">ಕಾನೂನು</string>
+    <string name="read_terms">ನಿಯಮಗಳನ್ನು ಓದಿ ಮತ್ತು ಖಾತೆಯನ್ನು ಅಳಿಸಿ</string>
+    <string name="logout">ಲಾಗ್ ಔಟ್</string>
+
+    <!-- Edit Profile -->
+    <string name="edit_profile_title">ಪ್ರೊಫೈಲ್ ಸಂಪಾದಿಸಿ</string>
+    <string name="save">ಉಳಿಸಿ</string>
+    <string name="account_details">ಖಾತೆ ವಿವರಗಳು</string>
+    <string name="user_name">ಬಳಕೆದಾರ ಹೆಸರು</string>
+    <string name="email_label">ಇಮೇಲ್ (ಲಾಗಿನ್‌ಗಾಗಿ ಬಳಸಲಾಗುತ್ತದೆ)</string>
+    <string name="phone">ಫೋನ್</string>
+    <string name="age">ವಯಸ್ಸು</string>
+    <string name="role_optional">ಪಾತ್ರ (ಐಚ್ಛಿಕ)</string>
+
+    <!-- Auth Screens -->
+    <string name="app_name_en">Grama-Vaxi</string>
+    <string name="app_name_kn">ಗ್ರಾಮ ವ್ಯಾಕ್ಸಿ</string>
+    <string name="continue_with_google">Google ಮೂಲಕ ಮುಂದುವರಿಯಿರಿ</string>
+    <string name="or_use_phone">  ಅಥವಾ ಫೋನ್ ಬಳಸಿ  </string>
+    <string name="mobile_number">ಮೊಬೈಲ್ ಸಂಖ್ಯೆ</string>
+    <string name="ten_digit_number">10-ಅಂಕಿಯ ಸಂಖ್ಯೆ</string>
+    <string name="resend_in_s">ಮರುಕಳುಹಿಸಲು %1$d ಸೆ</string>
+    <string name="resend_otp">OTP ಮರುಕಳುಹಿಸಿ</string>
+    <string name="send_otp">OTP ಕಳುಹಿಸಿ</string>
+    <string name="otp_sent_to">OTP ಅನ್ನು +91 %1$s ಗೆ ಕಳುಹಿಸಲಾಗಿದೆ</string>
+    <string name="enter_otp">OTP ನಮೂದಿಸಿ</string>
+    <string name="login_btn">ಲಾಗಿನ್ / Login</string>
+    
+    <string name="complete_profile">ಪ್ರೊಫೈಲ್ ಪೂರ್ಣಗೊಳಿಸಿ</string>
+    <string name="welcome_provide_details">ಸ್ವಾಗತ! ದಯವಿಟ್ಟು ಕೆಲವು ಮೂಲ ವಿವರಗಳನ್ನು ಒದಗಿಸಿ.</string>
+    <string name="full_name">ಪೂರ್ಣ ಹೆಸರು</string>
+    <string name="village_location">ಗ್ರಾಮ / ಸ್ಥಳ</string>
+    <string name="phone_number">ಸಂಖ್ಯೆ</string>
+    <string name="verify_phone_later">ನೀವು ಸಂಖ್ಯೆಯನ್ನು ನಂತರ ಪರಿಶೀಲಿಸಬಹುದು</string>
+    <string name="complete_registration">ನೋಂದಣಿಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ</string>
+    
+    <string name="verification">ಪರಿಶೀಲನೆ</string>
+    <string name="enter_otp_sent_to">%1$s ಗೆ ಕಳುಹಿಸಲಾದ OTP ಅನ್ನು ನಮೂದಿಸಿ</string>
+    <string name="otp">OTP</string>
+    <string name="otp_placeholder">0000</string>
+    <string name="resend_otp_in_sec">%1$d ಸೆಕೆಂಡುಗಳಲ್ಲಿ OTP ಮರುಕಳುಹಿಸಿ</string>
+    <string name="request_new_otp">ನೀವು ಹೊಸ OTP ಅನ್ನು ವಿನಂತಿಸಬಹುದು</string>
+    <string name="verify_btn">ಪರಿಶೀಲಿಸಿ / Verify</string>
+
+    <!-- Language / Theme / Permission Settings -->
+    <string name="choose_language">ನಿಮಗೆ ಇಷ್ಟವಾದ ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ.</string>
+    <string name="english">ಇಂಗ್ಲಿಷ್</string>
+    <string name="kannada">ಕನ್ನಡ</string>
+    <string name="notification_settings_title">ಅಧಿಸೂಚನೆ ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="manage_notification_permissions">ಎಚ್ಚರಿಕೆ ಮತ್ತು ಜ್ಞಾಪನೆಗಳಿಗಾಗಿ ಸಿಸ್ಟಮ್ ಅಧಿಸೂಚನೆ ಅನುಮತಿಗಳನ್ನು ನಿರ್ವಹಿಸಿ.</string>
+    <string name="open_notification_settings">ಅಧಿಸೂಚನೆ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ತೆರೆಯಿರಿ</string>
+    <string name="dark_mode_title">ಡಾರ್ಕ್ ಮೋಡ್</string>
+    <string name="choose_app_appearance">ಗ್ರಾಮ-ವ್ಯಾಕ್ಸಿ ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿ ಹೇಗೆ ಕಾಣಬೇಕು ಎಂಬುದನ್ನು ಆಯ್ಕೆಮಾಡಿ.</string>
+    <string name="system_default">ಸಿಸ್ಟಮ್ ಡೀಫಾಲ್ಟ್</string>
+    <string name="light_mode">ಲೈಟ್ ಮೋಡ್</string>
+    <string name="app_permissions_title">ಅಪ್ಲಿಕೇಶನ್ ಅನುಮತಿಗಳು</string>
+    <string name="control_access">ಸಿಸ್ಟಮ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳಿಂದ ಸಂಗ್ರಹಣೆ, ಸ್ಥಳ ಮತ್ತು ಅಧಿಸೂಚನೆಗಳಿಗೆ ಪ್ರವೇಶವನ್ನು ನಿಯಂತ್ರಿಸಿ.</string>
+    <string name="open_app_permissions_btn">ಅಪ್ಲಿಕೇಶನ್ ಅನುಮತಿಗಳನ್ನು ತೆರೆಯಿರಿ</string>
+
+    <string name="animal_photo">ಪ್ರಾಣಿಯ ಫೋಟೋ</string>
+    <string name="tap_to_take_photo">ಫೋಟೋ ತೆಗೆಯಲು ಟ್ಯಾಪ್ ಮಾಡಿ</string>
+    <string name="or_select_from_gallery">ಅಥವಾ ಗ್ಯಾಲರಿಯಿಂದ ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="animal_name">ಪ್ರಾಣಿಯ ಹೆಸರು</string>
+    <string name="animal_name_hint">ಉದಾ., ಗೌರಿ</string>
+    <string name="breed">ತಳಿ</string>
+    <string name="breed_hint">ಉದಾ., Holstein</string>
+    <string name="village">ಗ್ರಾಮ</string>
+    <string name="village_hint">ಉದಾ., ಪಾಲಹಳ್ಳಿ</string>
+    <string name="age_months">ವಯಸ್ಸು (ತಿಂಗಳು)</string>
+
+    <!-- Disease Report -->
+    <string name="alert_vet_services">ಸ್ಥಳೀಯ ಪಶುಚಿಕಿತ್ಸಾ ಸೇವೆಗಳಿಗೆ ತಕ್ಷಣ ತಿಳಿಸಿ.</string>
+    <string name="select_affected_animals">ಬಾಧಿತ ಪ್ರಾಣಿ(ಗಳನ್ನು) ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="number_affected_animals">ಬಾಧಿತ ಪ್ರಾಣಿಗಳ ಸಂಖ್ಯೆ</string>
+    <string name="symptoms_observed">ಗಮನಿಸಿದ ರೋಗಲಕ್ಷಣಗಳು</string>
+    <string name="describe_symptoms">ರೋಗಲಕ್ಷಣಗಳನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ವಿವರಿಸಿ…</string>
+    <string name="additional_notes">ಹೆಚ್ಚುವರಿ ಟಿಪ್ಪಣಿಗಳು</string>
+    <string name="notes_placeholder">ಗ್ರಾಮ, ನಡವಳಿಕೆಯ ಬದಲಾವಣೆಗಳು, ತುರ್ತು</string>
+    <string name="classify_symptoms">ರೋಗಲಕ್ಷಣಗಳನ್ನು ವರ್ಗೀಕರಿಸಿ</string>
+    <string name="submit_report">ವರದಿ ಸಲ್ಲಿಸಿ</string>
+
+    <string name="not_scheduled">ನಿಗದಿಯಾಗಿಲ್ಲ</string>
+    <string name="default_web_client_id">902931902318-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.apps.googleusercontent.com</string>
+</resources>

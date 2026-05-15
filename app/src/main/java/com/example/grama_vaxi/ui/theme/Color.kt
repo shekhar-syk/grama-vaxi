@@ -1,0 +1,56 @@
+package com.example.grama_vaxi.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val Primary = Color(0xFF0D631B)
+val PrimaryContainer = Color(0xFF2E7D32)
+val OnPrimary = Color(0xFFFFFFFF)
+val OnPrimaryContainer = Color(0xFFCBFFC2)
+val OnPrimaryFixed = Color(0xFF002204)
+val OnPrimaryFixedVariant = Color(0xFF005312)
+val PrimaryFixed = Color(0xFFA3F69C)
+val PrimaryFixedDim = Color(0xFF88D982)
+
+val Secondary = Color(0xFF2A6B2C)
+val SecondaryContainer = Color(0xFFACF4A4)
+val OnSecondary = Color(0xFFFFFFFF)
+val OnSecondaryContainer = Color(0xFF307231)
+val OnSecondaryFixed = Color(0xFF002203)
+val OnSecondaryFixedVariant = Color(0xFF0C5216)
+val SecondaryFixed = Color(0xFFACF4A4)
+val SecondaryFixedDim = Color(0xFF91D78A)
+
+val Tertiary = Color(0xFF6D5100)
+val TertiaryContainer = Color(0xFF8C6800)
+val OnTertiary = Color(0xFFFFFFFF)
+val OnTertiaryContainer = Color(0xFFFFEFD6)
+val TertiaryFixed = Color(0xFFFFDF9E)
+val TertiaryFixedDim = Color(0xFFFABD00)
+val OnTertiaryFixed = Color(0xFF261A00)
+val OnTertiaryFixedVariant = Color(0xFF5B4300)
+
+val Background = Color(0xFFFCF9F8)
+val OnBackground = Color(0xFF1B1C1C)
+val Surface = Color(0xFFFCF9F8)
+val SurfaceTint = Color(0xFF1B6D24)
+val SurfaceDim = Color(0xFFDCD9D9)
+val SurfaceBright = Color(0xFFFCF9F8)
+val SurfaceContainerLowest = Color(0xFFFFFFFF)
+val SurfaceContainerLow = Color(0xFFF6F3F2)
+val SurfaceContainer = Color(0xFFF0EDED)
+val SurfaceContainerHigh = Color(0xFFEAE7E7)
+val SurfaceContainerHighest = Color(0xFFE5E2E1)
+val OnSurface = Color(0xFF1B1C1C)
+val OnSurfaceVariant = Color(0xFF40493D)
+
+val Outline = Color(0xFF707A6C)
+val OutlineVariant = Color(0xFFBFCABA)
+
+val Error = Color(0xFFBA1A1A)
+val ErrorContainer = Color(0xFFFFDAD6)
+val OnError = Color(0xFFFFFFFF)
+val OnErrorContainer = Color(0xFF93000A)
+
+val InverseSurface = Color(0xFF303030)
+val InverseOnSurface = Color(0xFFF3F0EF)
+val InversePrimary = Color(0xFF88D982)
