@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Grama-Vaxi Farmer Application
 
 The Grama-Vaxi Farmer App is a specialized Android application designed for livestock owners in rural regions. It serves as a digital companion for managing animal health, tracking vaccination schedules, and maintaining direct communication with veterinary authorities.
@@ -54,3 +55,6 @@ The Grama-Vaxi Farmer App is a specialized Android application designed for live
 ## Security
 
 The application implements phone-based authentication to ensure that animal records and reporting are tied to verified farmer identities within the regional database.
+=======
+# grama-vaxi
+>>>>>>> 838d978d4d6fe9e4b912b8c9f2727d8fa96edcf6
